@@ -1,4 +1,4 @@
-"""https://www.codeeval.com/open_challenges/25/"""
+/* https://www.codeeval.com/open_challenges/25/ */
 
 public class Main {
 
